@@ -15,7 +15,7 @@ After finishing this project, you'll get to know a lot about planning and develo
 
 ## Python Developer
 
-# What you’ll do and what you’ll learn
+## What you’ll do and what you’ll learn
 
 Stage 1/5: Welcome to the battlefield!
 To start things off, the program needs to be able to print any state of the field. You’ll write a serious multi-line program using a lot of prints.
